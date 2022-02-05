@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298838832142",
+    "project_id": "lugares-e900f",
+    "storage_bucket": "lugares-e900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298838832142:android:fc29916b4c1231510d785f",
+        "android_client_info": {
+          "package_name": "com.lugares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298838832142-u9cq75us4uqet8strkv96gr5j9o8vo78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Ah77TkjyPscRXAFCT0NDBuVRXXHoCnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298838832142-u9cq75us4uqet8strkv96gr5j9o8vo78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
